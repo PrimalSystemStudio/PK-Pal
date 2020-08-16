@@ -1,1 +1,1 @@
-PK-Pal
+A partner application for PluralKit intended to leave messages for system member. Other facilities may be added in the future
